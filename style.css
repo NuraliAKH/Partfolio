@@ -44,17 +44,12 @@ a{
 h1 span{
     color: red;
 }
-.c3{
-    padding: 0px 150px;
-    text-align: center;
-    align-items: end;
-}
 .row{
     margin: 10%;
 
 }
 .row img{
-    width: 100%;
+    width: 90%;
     align-items: center;
     object-fit: contain;
 }
@@ -71,23 +66,19 @@ h1 span{
     width: 100%;
 }
 .btn{
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     background-color: red;
     position: sticky;
     top: 90%;
-    left: 95%;
+    left: 90%;
     border-radius: 50%;
     transition: all ease-in-out .5;
 }
 .btn:hover{
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     background-color: red;
-    /* position: sticky; */
-    /* top: 150px; */
-    /* right: 50px; */
-    /* border-radius: 50%; */
 }
 footer {
     width: 100%;
