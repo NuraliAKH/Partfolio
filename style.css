@@ -37,7 +37,6 @@ a{
 }
 .image{
     width: 80% !important;
-    height: 300px !important;
     object-fit: cover !important;
     border-radius: 50%;
     box-shadow: 5px 5px 10px 5px rgb(79, 79, 79);
@@ -48,6 +47,7 @@ h1 span{
 .c3{
     padding: 0px 150px;
     text-align: center;
+    align-items: end;
 }
 .row{
     margin: 10%;
@@ -94,10 +94,6 @@ footer {
     height: 238px;
     background: grey;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 74px;
-    font-weight: 300;
     font-size: 18px;
     line-height: 21px;
 }
